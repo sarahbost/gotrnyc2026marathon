@@ -35,7 +35,7 @@ main {
   margin: 0 auto;
   overflow: hidden;
   background: var(--cream);
-  box-shadow: 0 0 40px rgba(55, 25, 77, .07);
+  box-shadow: none;
 }
 
 .hero {
